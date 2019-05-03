@@ -1,0 +1,11 @@
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/bin/Debug/netcoreapp2.1/csharp.deps.json
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/bin/Debug/netcoreapp2.1/csharp.runtimeconfig.json
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/bin/Debug/netcoreapp2.1/csharp.runtimeconfig.dev.json
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/bin/Debug/netcoreapp2.1/csharp.dll
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/bin/Debug/netcoreapp2.1/csharp.pdb
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.csprojAssemblyReference.cache
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.csproj.CoreCompileInputs.cache
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.AssemblyInfoInputs.cache
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.AssemblyInfo.cs
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.dll
+/Users/philipperry/Documents/education/programming/coding_challenges/2-1/csharp/obj/Debug/netcoreapp2.1/csharp.pdb
